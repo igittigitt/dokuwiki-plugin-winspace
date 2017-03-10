@@ -1,19 +1,20 @@
-filespace Plugin for DokuWiki
+winspace Plugin for DokuWiki
 
-Create directory structure of namespace on an Windows-Share, but with pagetitles
+Create/change/delete directory on Windows-Share the same way
+as namespaces in Dokuwiki.
 
 All documentation for this plugin can be found at
-http://www.kreisbote.de/dokuwiki/plugins/filespace.tgz
+https://www.dokuwiki.org/plugin:winspace
 
 If you install this plugin manually, make sure it is installed in
-lib/plugins/filespace/ - if the folder is called different it
+lib/plugins/winspace/ - if the folder is called different it
 will not work!
 
 Please refer to http://www.dokuwiki.org/plugins for additional info
 on how to install plugins in DokuWiki.
 
 ----
-Copyright (C) Oliver Geisen <oliver.geisen@kreisbote.de>
+Copyright (C) Oliver Geisen <oliver@denkdose.de>
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
