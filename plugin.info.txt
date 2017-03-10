@@ -1,0 +1,7 @@
+base   winspace
+author Oliver Geisen
+email  oliver@denkdose.de
+date   2017-03-10
+name   winspace plugin
+desc   Creates namespace directories on a Windows-Share too
+url    http://github.com/igittigitt/dokuwiki-plugin-winspace/zipball/master
