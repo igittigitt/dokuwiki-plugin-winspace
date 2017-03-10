@@ -1,0 +1,7 @@
+base   filespace
+author Oliver Geisen
+email  oliver.geisen@kreisbote.de
+date   2012-08-30
+name   filespace plugin
+desc   Create directory structure of namespace on an Windows-Share, but with pagetitles
+url    http://www.kreisbote.de/dokuwiki/plugins/filespace.tgz
