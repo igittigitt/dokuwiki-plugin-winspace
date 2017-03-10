@@ -1,7 +1,7 @@
-base   filespace
+base   winspace
 author Oliver Geisen
-email  oliver.geisen@kreisbote.de
+email  oliver@denkdose.de
 date   2012-08-30
-name   filespace plugin
-desc   Create directory structure of namespace on an Windows-Share, but with pagetitles
-url    http://www.kreisbote.de/dokuwiki/plugins/filespace.tgz
+name   winspace plugin
+desc   Handle namespace dirs in parallel on a Windows-Share
+url    http://github.com/igittigitt/dokuwiki-plugin-winspace/zipball/master
